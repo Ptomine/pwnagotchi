@@ -2,6 +2,9 @@
 *.img.bmap
 *.pcap
 *.po~
+*.log
+*.zip
+*.sha256
 preview.png
 __pycache__
 _backups
